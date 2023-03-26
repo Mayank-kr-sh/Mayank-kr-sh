@@ -15,7 +15,7 @@
 <a href="https://stackoverflow.com/users/mayank-kumar-shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mayank-kumar-shah" height="30" width="40" /></a>
 <a href="https://instagram.com/mayank_.kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayank_.kr" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mayank_9009_kr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mayank_9009_kr" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/maynk-kr-sh109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maynk-kr-sh109" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mayank-kr-sh109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maynk-kr-sh109" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/<mayank109>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<mayank109>" height="30" width="40" /></a>
 </p>
 
