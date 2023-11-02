@@ -1,8 +1,8 @@
+
 <img align="right" src="https://komarev.com/ghpvc/?username=mayank-kr-sh&label=Visitors&color=0e75b6&style=flat" />
 
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+There!+%F0%9F%91%8B;I'm+Mayank+Kumar+Shah" />
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Mayank+Kumar+Shah" />
 </h1>
 
 <h3 align="center">A passionate software engineer and developer from India.</h3>
@@ -43,7 +43,6 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,typescript,firebase,mysql,flask,tensorflow,tailwind,sqlite,pytorch,postman,octave,angular,androidstudio,tailwind" /><br>
 </div>
 
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -53,7 +52,6 @@
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-kr-sh&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.8&count_weight=0.5&exclude_repo=github-readme-stats" alt="mayank-kr-sh" />
   <br/> <br/> 
   <img width=390 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-kr-sh"  alt="mayank-kr-sh" />
- 
 </div>
 
 <br/><br/>
